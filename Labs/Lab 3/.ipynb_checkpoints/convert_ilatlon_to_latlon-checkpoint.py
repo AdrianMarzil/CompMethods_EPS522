@@ -33,4 +33,4 @@ def convert_ilatlon_to_latlon(latitude_number, longitude_number):
 #latitude, longitude = convert_to_lat_lon(latitude_number, longitude_number)
 #latitude, longitude = convert_ilatlon_to_latlon(ilat, ilon)
 
-#print(f"Latitude: {latitude}, Longitude: {longitude}")
+#print(f"Latitude: {latitude} N, Longitude: {longitude} W")
